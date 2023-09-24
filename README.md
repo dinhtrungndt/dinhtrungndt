@@ -1,4 +1,4 @@
-### WELCOME TO MY PAGE👋👋👋
+### WELCOME TO MY PAGE 👋👋👋
 My name is Dinh Trung. I am a programmer. My specialty is mobile and web.
 
 ## 📫 How to reach me: 
