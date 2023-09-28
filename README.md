@@ -1,5 +1,5 @@
-### WELCOME TO MY PAGE 👋👋👋
-My name is Dinh Trung. I am a programmer. My specialty is mobile and web.
+<h1 align="center">### WELCOME TO MY PAGE 👋👋👋 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">My name is Dinh Trung. I am a programmer. My specialty is mobile and web.</h3>
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
