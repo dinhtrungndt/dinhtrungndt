@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lake - WELCOME TO MY PAGE 👋👋👋 <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">My name is Dinh Trung. I am a programmer. My specialty is mobile and web.</h3>
+<h3 align="center">I am a programmer. My specialty is mobile and web.</h3>
+
+- 📫 How to contact me: **trungdinhtrung.it@gmail.com**
+
+- ⚡ Things I like to do: **I really like reading code, working in groups and reading books...and of course writing code**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
