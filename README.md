@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,27&height=200&section=header&text=Law%20-%20Nguyễn%20Đình%20Trưng&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Mobile%20Specialist%20|%20Code%20Craftsman&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,27&height=200&section=header&text=Lake%20-%20Nguyễn%20Đình%20Trưng&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Mobile%20Specialist%20|%20Code%20Craftsman&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+Digital+World!+🌊;Full-Stack+%26+Mobile+Developer+📱;Passionate+Code+Reader+📚;Team+Player+%26+Problem+Solver+🚀;Turning+Coffee+into+Code+☕→💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=Welcome+to+my+Digital+World!+%F0%9F%8C%8A;Full-Stack+%26+Mobile+Developer+%F0%9F%93%B1;AI+Skills+%7C+NLP+%7C+Cloud+%F0%9F%A4%96;Team+Leader+%26+Mentor+%F0%9F%9A%80;Building+Amazing+Solutions+%E2%9C%A8" alt="Typing SVG" />
 
   <!-- Wave Animation -->
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
