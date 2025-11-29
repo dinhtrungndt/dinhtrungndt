@@ -5,7 +5,7 @@
 <div align="center">
 
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=Welcome+to+my+Digital+World!+%F0%9F%8C%8A;Full-Stack+%26+Mobile+Developer+%F0%9F%93%B1;AI+Skills+%7C+NLP+%7C+Cloud+%F0%9F%A4%96;Team+Leader+%26+Mentor+%F0%9F%9A%80;Building+Amazing+Solutions+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=750&lines=Welcome+to+my+Digital+World!+%F0%9F%8C%8A;Mobile+%26+Web+Developer+%F0%9F%93%B1%F0%9F%8C%90;AI+%7C+NLP+%7C+Azure+%7C+Cloudflare+%E2%98%81%EF%B8%8F;Team+Leader+%26+Mentor+%F0%9F%9A%80;Building+Scalable+Solutions+%E2%9C%A8" alt="Typing SVG" />
 
   <!-- Wave Animation -->
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
@@ -41,7 +41,7 @@
 ```javascript
 const NguyenDinhTrung = {
     fullName: "Nguyễn Đình Trưng",
-    role: "Full-Stack Developer",
+    role: "Mobile & Web Developer",
     location: "Ho Chi Minh City, Vietnam 🇻🇳",
     phone: "0889.541.507",
     email: "ndtrunggg.it@gmail.com",
@@ -54,10 +54,13 @@ const NguyenDinhTrung = {
     },
     
     expertise: {
-        frameworks: ["React Native", "NextJS", "ReactJS", "Flutter", "TailwindCSS", "Prisma"],
+        mobile: ["Flutter", "React Native", "Android", "iOS"],
+        web: ["ReactJS", "NextJS", "React", "TailwindCSS"],
+        frameworks: ["Prisma", "Bootstrap", "Redux"],
         languages: ["HTML5", "CSS3", "Dart", "JavaScript", "TypeScript", "Python", "Java", "C++", "Kotlin"],
-        backend: ["NodeJS", "NestJS", ".NET Core", "MongoDB", "PHP", "Python"],
+        backend: ["NodeJS", "NestJS", ".NET Core", "Express.js", "PHP"],
         databases: ["MySQL", "NoSQL", "SQL Server", "MongoDB"],
+        cloud: ["Azure", "Cloudflare", "Firebase", "Heroku", "Vercel"],
         ide: ["VS Code", "Unity", "Android Studio", "NetBeans", "Vim", "Sublime Text"]
     },
     
@@ -81,19 +84,21 @@ const NguyenDinhTrung = {
     ],
     
     passions: [
-        "📖 Reading & analyzing code",
+        "📱 Building cross-platform mobile apps",
+        "🌐 Creating responsive web applications",
         "👥 Leading teams and mentoring juniors",
         "🧩 Algorithm, math, and puzzle solving",
-        "💻 Building scalable applications",
-        "🎨 Creating intuitive user interfaces"
+        "📖 Reading & analyzing code"
     ],
     
     careerGoal: "Focused on prioritizing and completing tasks promptly, with the goal of becoming a Senior Developer in the coming years",
     
     specialSkills: [
         "🤖 AI/NLP: Training emotional AI to identify profanity and malicious links",
-        "☁️ Cloud Architecture: Facebook Developer integration",
-        "👨‍🏫 Mentoring: Guide newbies on coding issues and processes",
+        "☁️ Cloud: Azure & Cloudflare deployment and optimization",
+        "📱 Mobile: Flutter & React Native cross-platform development",
+        "🌐 Web: Full-stack React, Next.js, and Node.js applications",
+        "👨‍🏫 Leadership: Mentoring newbies on coding issues and processes",
         "🔐 Security: High-level security implementation and hash algorithms"
     ],
     
@@ -141,25 +146,25 @@ Mentor & Guide
 </tr>
 <tr>
 <td align="center" width="33%">
-<b>📱 Mobile Expert</b>
+<b>🏆 Leadership</b>
 <br>
-Flutter & React Native
+Team Leader
 <br>
-Cross-platform apps
+Mentor & Guide
 </td>
 <td align="center" width="33%">
-<b>🌐 Full-Stack</b>
+<b>🤖 AI & NLP</b>
 <br>
-React, Node.js & Python
+Emotional AI Training
 <br>
-End-to-end solutions
+Content Safety Systems
 </td>
 <td align="center" width="33%">
-<b>🤖 AI Skills</b>
+<b>💼 Experience</b>
 <br>
-NLP & Emotional AI
+5+ Companies
 <br>
-Profanity Detection
+Multiple Tech Stacks
 </td>
 </tr>
 </table>
@@ -194,7 +199,12 @@ Profanity Detection
 - File content safety checking
 - Natural Language Processing (NLP)
 - Facebook Developer integration
-- Cloud architecture implementation
+
+**☁️ Cloud Platforms:**
+- Microsoft Azure
+- Cloudflare
+- Firebase
+- Heroku & Vercel
 
 **📚 Certifications:**
 - PMP Center (650)
@@ -242,14 +252,14 @@ Profanity Detection
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
 </p>
 
-### 🎨 Design & Tools
+### ☁️ Cloud & Hosting Platforms
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ### 🔧 Development Tools
