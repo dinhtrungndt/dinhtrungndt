@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,27&height=200&section=header&text=Lake%20-%20Nguyễn%20Đình%20Trưng&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Mobile%20Specialist%20|%20Code%20Craftsman&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20,24,27&height=200&section=header&text=Law%20-%20Nguyễn%20Đình%20Trưng&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20|%20Mobile%20Specialist%20|%20Code%20Craftsman&descAlignY=55&descAlign=50&animation=twinkling" width="100%"/>
 </div>
 
 <div align="center">
